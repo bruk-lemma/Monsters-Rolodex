@@ -1,0 +1,14 @@
+.search{
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    font-size: 15px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+  }
+
+  .search::placeholder{
+    font-size: 35px;
+    font-family: 'Bigelow Rules';
+    color: blueviolet;
+  }
